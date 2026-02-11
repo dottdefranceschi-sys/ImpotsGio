@@ -67,4 +67,4 @@ if profitto_netto > 0:
     st.success(f"✅ Rentable! Vous gagnez ${int(profitto_netto)} grâce à l'arbitrage fiscal.")
 else:
     st.error("❌ Non rentable: les intérêts du prêt réduisent les économies fiscales.")                                
-)
+
